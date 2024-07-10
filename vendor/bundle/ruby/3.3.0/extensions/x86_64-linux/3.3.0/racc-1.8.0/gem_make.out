@@ -1,0 +1,18 @@
+current directory: /devcontainer/ruby-devcontainer/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/usr/local/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /devcontainer/ruby-devcontainer/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240625-4276-5qovwa sitelibdir\=./.gem.20240625-4276-5qovwa clean
+
+current directory: /devcontainer/ruby-devcontainer/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240625-4276-5qovwa sitelibdir\=./.gem.20240625-4276-5qovwa
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /devcontainer/ruby-devcontainer/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240625-4276-5qovwa sitelibdir\=./.gem.20240625-4276-5qovwa install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240625-4276-5qovwa/racc
+
+current directory: /devcontainer/ruby-devcontainer/backend/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240625-4276-5qovwa sitelibdir\=./.gem.20240625-4276-5qovwa clean
